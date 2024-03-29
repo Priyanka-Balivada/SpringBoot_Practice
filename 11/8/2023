@@ -1,0 +1,8 @@
+user
+-username
+-password
+-type
+    -admin
+    -student
+
+post method

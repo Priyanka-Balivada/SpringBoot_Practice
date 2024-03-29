@@ -1,0 +1,5 @@
+layers
+rest->service->dao->repo--------------->db
+spring application
+jpa mysql
+access records from user and display on postman
